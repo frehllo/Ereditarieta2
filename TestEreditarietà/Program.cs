@@ -7,7 +7,7 @@ namespace TestEreditarietà
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Che tipo di forma giometrica vuoi creare? 1 = rettangolo , 2 = rombo, 3 = triangolo");
+            Console.WriteLine("Che tipo di forma giometrica vuoi creare ? 1 = rettangolo , 2 = rombo, 3 = triangolo");
             int t = int.Parse(Console.ReadLine());
 
             if(t == 1)

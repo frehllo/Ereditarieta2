@@ -6,6 +6,10 @@ namespace Classi_Geometria
 {
     public class Quadrilatero
     {
-        internal const int N_LATI_QUADRILATERO = 4;
+        public const int N_LATI_QUADRILATERO = 4;
+
+        public Quadrilatero(int nl)
+        {
+        }
     }
 }
